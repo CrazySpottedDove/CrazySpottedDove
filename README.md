@@ -1,6 +1,7 @@
 ## 访问我的主页 🌍
 [👉 点击这里访问](https://crazyspotteddove.github.io/)
 
+🤔 或许会有有趣的小玩意儿……
 <!--
 **CrazySpottedDove/CrazySpottedDove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
